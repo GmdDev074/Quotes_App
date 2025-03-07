@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quotes</string>
+
+    <string name="navigation_drawer_open">Open drawer</string>
+    <string name="navigation_drawer_close">Close drawer</string>
+
+    //Admob Test ID's
+    <string name="banner_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="native_ad_id">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="interstitial_ad_id">ca-app-pub-3940256099942544/1033173712</string>
+
+
+</resources>
