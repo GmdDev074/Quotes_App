@@ -43,8 +43,11 @@ dependencies {
 
     implementation("com.google.android.gms:play-services-ads:22.6.0")
 
-    //
+    //lottie animation
     implementation("com.airbnb.android:lottie:6.4.0")
+
+    //shimmer effect
+    implementation("com.facebook.shimmer:shimmer:0.5.0")
 
 
     //paper db
